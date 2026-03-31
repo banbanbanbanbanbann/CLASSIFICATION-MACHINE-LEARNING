@@ -1,0 +1,9 @@
+!pip install tensorflow
+!pip install scikit-learn
+!pip install matplotlib
+!pip install shap
+!pip install xgboost
+!pip install keras-tuner
+!pip install matplotlib
+!pip install numpy
+!pip install pandas
